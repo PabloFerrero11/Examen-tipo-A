@@ -1,0 +1,57 @@
+.h1{
+text-align: center;
+background-color:orange;
+align-content: center;
+position: absolute;
+}
+
+.texto{
+background-color: blue;
+}
+
+
+.segundo{
+background-color: red;
+}
+
+.pie{
+color: darkblue ;
+size: 2px;
+}
+
+.ultimo{
+background-color: orangered;
+color: orangered;
+}
+
+.naranja{
+background-color: orangered;
+}
+
+.p1{
+background-color: skyblue;
+
+}
+
+.nombre{
+background-color: orange;
+}
+.atributos{
+background-color: lightblue;
+letter-spacing: 1;
+color: green;
+}
+
+.azul{
+background-color: lightskyblue;
+
+}
+
+.texto2{
+color: blue;
+}
+
+.texto3{
+color: red;
+
+}
